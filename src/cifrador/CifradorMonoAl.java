@@ -2,7 +2,7 @@ package cifrador;
 
 /**
  *
- * @author sin_querer@hotmail.com
+ * @author felipe@uanaco.cl
  */
 public class CifradorMonoAl {
 
