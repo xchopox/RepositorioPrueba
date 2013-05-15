@@ -5,6 +5,7 @@ package cifrador;
  * @author sin_querer@hotmail.com
  */
 public class CifradorMonoAl {
+    //funcion Cifrador mono
 
     private int desplazamientoN = 0;
     char tablaCesar[] = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L',
