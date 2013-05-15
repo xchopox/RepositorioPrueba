@@ -13,10 +13,12 @@ public class CifradorMonoAl {
 
     private int getDesplazamientoN() {
         return desplazamientoN;
+        //Vamos a agregarle unas lineas por aquí
     }
 
     public void setDesplazamientoN(int desplazamientoN) {
         this.desplazamientoN = desplazamientoN;
+        // y otras por acá
     }
 
     public char getTextoCifrado1(char parTextoClaro) {
