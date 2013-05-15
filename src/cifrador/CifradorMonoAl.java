@@ -14,7 +14,10 @@ public class CifradorMonoAl {
 
     private int getDesplazamientoN() {
         return desplazamientoN;
+<<<<<<< HEAD
         //Vamos a agregarle unas lineas por aquí y por allá
+=======
+>>>>>>> 21ad013943513e8255482353c7baad416a7ec9ba
     }
 
     public void setDesplazamientoN(int desplazamientoN) {
