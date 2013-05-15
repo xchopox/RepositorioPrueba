@@ -3,6 +3,7 @@ package cifrador;
 /**
  *
  * @author xchopox@gmail.com
+ * @author g@uanaco.cl
  */
 public class CifradorMonoAl {
     //funcion Cifrador mono
